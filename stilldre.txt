@@ -1,0 +1,50 @@
+s f j sf j f
+a f j af h f
+s f j sf j f
+a f j af h f
+[6s] f j sf [7j] f
+[3a] f j af [3h] f
+[6s] f j sf [7j] f
+[3a] f [3j] a 3 3 [3f] [3h] [3f]
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh] [3afh] [afh]
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [3afh][3afh]
+[6sfj] [sfj] [sfj] [sfj]6[6sfj] [6sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [3afh] [3afh] [afh] [3afh] [afh]
+[6sfj] [sfj] [sfj] [sfj]6[6sfj] [6sfj] [7sfj] [sfj]
+[3afj] [afj] [3afj] [afh]3[3afh] [3afh] [3afh] [3afh]
+sfjsfjsfjsfjsfjfafjafjafhafhafhf
+sfjsfjsfjsfjsfjfafjafjafhafhafhf
+[6s][6f][6j]s[6f]jsfjsfj[7s]fjf[3a][3f][3j]a[3f]jafhafh[3a]fhf
+[6s][6f][6j]s[6f]jsfjsfj[7s]fjf[3a][3f][3j]a[3f]ja[3f][3h]a[3f]h[3a]f[3h]f
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh] [3afh] [afh]
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh]3[3afh] [3afh]
+[6sfj] [sfj] [sfj] [sfj]6[6sfj] [6sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh] [3afh] [afh]
+[6sfj] [sfj] [sfj] [sfj]6[6sfj] [6sfj] [7sfj] [sfj]
+[3afj] [afj] [3afj] [afh]3[3afh] [3afh] [3afh] [3afh]
+[6sfj][7afj]
+[3afh][uf] [sl] [oh]
+[6sfj][7afj]
+[3afh][3afh][3afh][3afh][3afh][3afh][3afh]
+[6sfj][7afj]
+[3afh][uf] [sl] [oh]
+[6sfj][7afj]
+[3afh][3afh][3afh][3afh][3afh][3afh][3afh]
+[6j] [6f] [6s] [6j] [6f] [6s] [7j] [7f]
+[3j] [3f] [3a] [3h] [3f] [3a] [3h] [3f]
+[6j] [6f] [6s] [6j] [6f] [6s] [7j] [7f]
+[3j] [3f] [3a] [3h] [3f] [3a] [3h] [3f]
+[6j]fsj[6f]sj[6f][6s]j[6f]s[7j]fsf[3j]faj[3f]ah[3f][3a]h[3f]a[3h]faf
+[6j]fsj[6f]sj[6f][6s]j[6f]s[7j]fsf[3j]f[3a]j[3f]a[3h]f[3a]hfah
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh] [3afh] [afh]
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh]3[3afh] [3afh]
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh] [3afh] [afh]
+[6sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [7sfj] [sfj]
+[3afj] [afj] [afj] [afh] [afh] [afh] [3afh]
